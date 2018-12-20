@@ -1,4 +1,4 @@
-package Storm.project.webacademie.demo;
+package Webac.Storm;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;
@@ -7,10 +7,11 @@ import org.springframework.test.context.junit4.SpringRunner;
 
 @RunWith(SpringRunner.class)
 @SpringBootTest
-public class DemoApplicationTests {
+public class StormApplicationTests {
 
 	@Test
 	public void contextLoads() {
 	}
 
 }
+
